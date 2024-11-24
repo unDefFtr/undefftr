@@ -1,16 +1,20 @@
-## Hi there 👋
+<br>
 
-<!--
-**undefftr/undefftr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">人言落日是天涯，望极天涯不见家。</p>
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+这里是 unDefFtr，一个来自广东的 OIer/独立开发者。
+
+> [!NOTE]
+> 是一名 13 岁初三生，水平只能称为蒟蒻（
+
+喜欢舞蒙、Project SEKAI、Phigros、Rizline 等音乐游戏，同时也喜欢 Minecraft 与沙威玛传奇（bushi）
+
+## 如何联系
+
+可以通过我的[电子邮箱](mailto:undefftr@undefined.ac.cn)联系我。我会在能看到的情况下尽快回复。
+
+或者，如果你想与我保持联系（或者单纯想扩列/交友），可以添加我的 QQ 1096238582。
