@@ -11,7 +11,7 @@
 > [!NOTE]
 > 是一名 14 岁初二生，水平只能称为蒟蒻（
 
-喜欢舞蒙、Project SEKAI、Phigros、Rizline 等音乐游戏，同时也喜欢 Minecraft 与沙威玛传奇（bushi）
+喜欢舞萌、Project SEKAI、Phigros、Rizline 等音乐游戏，同时也喜欢 Minecraft 与沙威玛传奇（bushi）
 
 ## 开发
 
