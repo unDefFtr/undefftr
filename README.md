@@ -9,7 +9,7 @@
 这里是 unDefFtr，一个来自广东的 OIer/独立开发者。
 
 > [!NOTE]
-> 是一名 14 岁初二生，水平只能称为蒟蒻（
+> 是一名 15 岁初三生，水平只能称为蒟蒻（
 
 喜欢舞萌、Project SEKAI、Phigros、Rizline 等音乐游戏，同时也喜欢 Minecraft 与沙威玛传奇（bushi）
 
