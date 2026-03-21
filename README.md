@@ -1,6 +1,6 @@
 <br>
 
-<p align="center">人言落日是天涯，望极天涯不见家。</p>
+<p align="center">「Forward into the undefined.」</p>
 
 </br>
 
