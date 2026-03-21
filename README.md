@@ -1,6 +1,6 @@
 <br>
 
-<p align="center">「Forward into the undefined.」</p>
+<p align="center">Forward into the undefined.</p>
 
 </br>
 
